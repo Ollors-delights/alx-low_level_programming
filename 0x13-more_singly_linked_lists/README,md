@@ -1,0 +1,10 @@
+this project explores more indepth concepts on using singly linked lists in a C program
+
+the tasks assigned include;
+
+Write a function that returns the number of elements in a linked listint_t list.
+Write a function that adds a new node at the beginning of a listint_t list.
+Write a function that adds a new node at the end of a listint_t list.
+etc
+
+for more details, check out the 0x13 C project on the alx intranet
